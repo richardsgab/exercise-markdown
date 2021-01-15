@@ -11,14 +11,3 @@
 ### katinda
 
 ### mehmet
-
-=======
-
-contributors:
-Gabriela
-Paulo
-Mehmet
-Katinda
-
-essai
->>>>>>> Mehmet
