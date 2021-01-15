@@ -1,7 +1,7 @@
 # exercise-markdown
 
-######contributors:
-##Gabriela
-##Paulo
-##Mehmet
-##Katinda
+contributors:
+Gabriela
+Paulo
+Mehmet
+Katinda
