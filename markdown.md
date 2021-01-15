@@ -9,5 +9,5 @@
 
 1. [Gabriela](https://www.linkedin.com/in/mar%C3%ADa-gabriela-richards-85b974203/)
 2. [Paulo](https://www.linkedin.com/in/paulolvsn)
-3. [Katinda]
+3. [Katinda](https://linkedin.com/in/katinda-mangala-b7626519a)
 4. [Mehmet](https://www.linkedin.com/in/mehmet-ugurlu/)
