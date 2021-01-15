@@ -1,13 +1,15 @@
 # exercise-markdown
 
-<<<<<<< HEAD
+First collaboration attempt in Git for 4 fellows.
 
-## collaborateurs
+## collaborators:
 
-### gabriela
+### Gabriela
 
-### paulo
+### Paulo
 
-### katinda
+### Mehmet
 
-### mehmet
+### Katinda
+
+
