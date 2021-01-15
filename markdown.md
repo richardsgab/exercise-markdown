@@ -19,7 +19,7 @@ if (x=0){alert("wow you did it!");}
 
 1. Mehmet
 *  parle turc
-* mange la specialité turc
+* mange la specialité turque
 
 2. Gabriela
 * parle espagnol
