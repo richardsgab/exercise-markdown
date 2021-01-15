@@ -13,3 +13,4 @@ First collaboration attempt in Git for 4 fellows.
 ### Katinda
 
 
+#2 got to the markdown.md file.
