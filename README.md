@@ -1,7 +1,7 @@
 # exercise-markdown
-collaborateurs:
+## collaborateurs:
 
-gabriela
-paulo
-katinda
-mehmet
+### gabriela
+### paulo
+### katinda
+### mehmet
